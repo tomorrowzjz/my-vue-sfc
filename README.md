@@ -17,7 +17,7 @@ git add -A
 git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:tomorrowzjz/my-vue-sfc.git master:gh-pages
+git push -f git@github.com:tomorrowzjz/my-vue-sfc-dome.git master:gh-pages
 
 
 ## Project setup
